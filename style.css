@@ -1,0 +1,14 @@
+.container-full {
+	padding: 0 15px;
+}
+
+#logo {
+	height: 200px;
+	width: 150px;
+}
+
+.intro {
+	background-color: #FF8005;
+	padding-left: 20px;
+	color: white;
+}
