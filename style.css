@@ -16,3 +16,11 @@
 	height: auto;
 	width: 100%;
 }
+
+.center-block {
+	float: none;
+}
+
+.fa {
+	color: #FF8005;
+}
