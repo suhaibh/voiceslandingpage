@@ -2,14 +2,19 @@
 	padding: 0 15px;
 }
 
+.navbar {
+	border-bottom: thick solid #FF8005;
+}
+
 #logo {
-	height: 200px;
-	width: 150px;
+	height: 80px;
+	width: 85px;
 }
 
 .intro {
 	padding-bottom: 25px;
 	color: white;
+	clear: both;
 }
 
 .intro-image {
@@ -23,4 +28,14 @@
 
 .fa {
 	color: #FF8005;
+}
+
+.explainer {
+	padding-top: 40px;
+}
+
+.contact {
+	border-bottom: thin solid #FF8005;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
