@@ -31,7 +31,13 @@
 }
 
 .explainer {
-	padding-top: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.explainer-odd {
+	color: white;
+	background-color: #FF8005;
 }
 
 .contact {
