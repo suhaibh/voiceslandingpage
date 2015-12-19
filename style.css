@@ -37,7 +37,9 @@
 
 .explainer-odd {
 	color: white;
+	height: 475px;
 	background-color: #FF8005;
+	padding-top: 20px;
 }
 
 .contact {
@@ -47,5 +49,18 @@
 }
 
 .icon {
+	padding-top: 20px;
+}
+
+.callpage {
+	width: 275px;
+	height: 425px;
+}
+
+.tell {
+	padding-top: 5%;
+}
+
+.download-badge {
 	padding-top: 20px;
 }
