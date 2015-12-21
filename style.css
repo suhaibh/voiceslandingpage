@@ -26,6 +26,10 @@
 	float: none;
 }
 
+.icon-row {
+	padding-bottom: 20px;
+}
+
 .fa {
 	color: #FF8005;
 }
@@ -35,12 +39,12 @@
 	padding-bottom: 20px;*/
 }
 
-.explainer-odd {
+.explainer-even {
 	color: white;
 	background-color: #FF8005;
 }
 
-.tell {
+.image-description {
 	margin-top: 20%;
 }
 
@@ -55,8 +59,8 @@
 }
 
 .callpage {
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .download-badge {
